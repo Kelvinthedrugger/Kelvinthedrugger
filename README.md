@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills
+- Python, C/C++, Verilog
+    
+    
+#### 🌱 I’m currently learning ...
+- AI accelerator (Domain-specific Chip) design
+- Distributed system
+
+
+
+#### - 📫 Don't be shy to reach out: ...
+- 890225kelvin@gmail.com
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
