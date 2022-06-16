@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     
 #### 🌱 I’m currently learning ...
 - AI accelerator (Domain-specific Chip) design
+- Deep learning
 - Distributed system
 
 
