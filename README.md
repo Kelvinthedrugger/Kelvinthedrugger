@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+It's Lee, I go by Kelvin, like Kelvin the temperature.
+
+Someone who likes to make difficult tasks as explicit as it can be.
+
 <!--
 **Kelvinthedrugger/Kelvinthedrugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +24,7 @@ Here are some ideas to get you started:
     
 #### 🌱 I’m currently learning ...
 - AI accelerator (domain-specific chip) design
-- Deep learning
+- Deep learning ([fast.ai](https://github.com/fastai/fastai))
 - Distributed system
 
 
