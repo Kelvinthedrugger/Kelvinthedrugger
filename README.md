@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 
 #### - 📫 Don't be shy to reach out ...
-- 890225kelvin@gmail.com
-- kelvin.chengyuan.lee@gmail.com (If you like the more professional one)
+- kelvin.chengyuan.lee@gmail.com
 
 
 
