@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Python, C/C++, Verilog
     
     
-#### 🌱 I’m currently learning ...
+#### 📖 I’m currently learning ...
 - AI accelerator (domain-specific chip) design
 - Deep learning ([fast.ai](https://github.com/fastai/fastai))
 - Distributed system
